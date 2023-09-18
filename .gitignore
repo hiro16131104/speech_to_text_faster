@@ -1,0 +1,13 @@
+# git管理から除外するファイル
+/.vscode
+/venv/*
+/assets/input/*
+/assets/output/*
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.webm
+*.ogg
+*.csv
+__pycache__
